@@ -1,0 +1,25 @@
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+.vscode/
+
+# Environment related files
+.env
+venv/
+env/
+
+# Data files (if not intended for version control)
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.feather
+*.hdf5
+
+# Logs
+*.log
+
+# Output files (if not intended for version control)
+output/
+results/
